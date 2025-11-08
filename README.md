@@ -20,7 +20,8 @@
 ## 2. 실습 구현 과제
 > 스크린샷 파일은 `screenshots` 폴더에 위치합니다.
 
-![세 가지 패턴 실행 화면](screenshots/3dp.png)
+![세 가지 패턴 실행 화면](screenshots/3dp1.png)
+![세 가지 패턴 실행 화면](screenshots/3dp2.png)
 
 ### 2-1. 개요
 
